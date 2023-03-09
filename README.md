@@ -29,8 +29,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Bazza-08/that-chanel.git)
+- Live Site URL: [netlify](https://that-chanel.netlify.app/)
+- Frontend Mentor - [@Bazza-08](https://www.frontendmentor.io/profile/Bazza-08)
 
 ## My process
 
@@ -59,9 +60,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)\*
+- Barry Thatcher
 
 ## Acknowledgments
 
-Thank you Frontend Mentors and W3 schools for prividing excellent communities and resourses to help further our coding journey!
+Thank you Frontend Mentors and W3 schools for prividing excellent communities and resourses to help further our coding journey! Thank you Github and Netlify making our code availiable and visible online with such ease!
